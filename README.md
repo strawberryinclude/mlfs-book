@@ -41,3 +41,8 @@ docker run -p 8080:8080 \
 
 ## Introduction to ML
 I wrote a brief introduction to machine learning [here](./introduction_to_supervised_ml.pdf)
+
+
+## Dashboard
+
+https://strawberryinclude.github.io/mlfs-book/air-quality
